@@ -35,7 +35,7 @@
         "mongoose-bcrypt": "^1.5.0",
         "mongoose-string-query": "^0.2.5",
         "serve-favicon": "^2.4.5",
-        "validator": "^9.4.0",
+        "validator": "^13.7.0",
         "winston": "^2.4.0",
         "winston-papertrail": "^1.0.5"
     },
